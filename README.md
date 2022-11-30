@@ -1,7 +1,8 @@
-### JADWAL WAKTU SHOLAT ###
+<h1 align="center">JADWAL WAKTU SHOLAT</h1>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwA_xePffUcd8rAdK-qxdPlOWo-XjDTXWS7mbkMR4CQrybITeLXNxODc&s=10" width="350" height="350">
-
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwA_xePffUcd8rAdK-qxdPlOWo-XjDTXWS7mbkMR4CQrybITeLXNxODc&s=10" width="550" height="350">
+</p>
 
 ### JADWAL WAKTU
 ```
@@ -17,19 +18,12 @@
 ### INSTALL FOR TERMUX
 ```
 $ pkg install update
-
 $ pkg install upgrade
-
 $ pkg install git
-
 $ pip install request
-
 $ pip install bs4
-
 $ git clone https://github.com/eabdalmufid/waktusholat
-
 $ cd waktusholat
-
 $ python jadwalwaktu.py
 ```
 
@@ -49,11 +43,8 @@ $ python jadwalwaktu.py
 ```
 
 - Allah swt
-
 - Ortu
-
 - Abdul Mufid
-
 - Mastah dll
 
 ```
